@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.gifer.com/QHJ.gif" />
+</p>
 <h1 align="center">Hi 👋, I'm Ahmed Khaled Noor</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Egypt</h3>
 
