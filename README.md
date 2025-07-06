@@ -1,31 +1,121 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khaled Noor</h1>
-<h3 align="center">A passionate Full-Stack Web developer from Egypt</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed101noor&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed101noor" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed101noor" alt="ahmed101noor" /></a> </p>
-
-- 🌱 I’m currently learning **Full-Stack Web Development Using .NET**
-
-- 📫 How to reach me **ahmedkhaliednoor@gmail.com**
-
-- ⚡ Fun fact **I Play Music 😅**
-<img align="right" height="188" src="https://i.gifer.com/6ElP.gif" />
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/callmephvntom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callmephvntom" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed-khaled-noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-khaled-noor" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.noor.568632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.noor.568632" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tesla07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tesla07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tesla07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tesla07" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ahmed101noor&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmed101noor&theme=tokyonight" alt="Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed101noor&show_icons=true&locale=en&layout=compact" alt="ahmed101noor" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed101noor&show_icons=true&locale=en" alt="ahmed101noor" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed101noor&" alt="ahmed101noor" /></p>
+- 🌱 I’m currently learning **Full-Stack Web Development Using .NET (ASP.NET Core + Angular)**  
+- 🧠 Always passionate about solving complex problems through efficient code  
+- 🎓 Graduated with a strong background in **Computer Science & Software Engineering**  
+- 💡 Built and led multiple student projects that won awards & nominations  
+- 💬 Ask me about anything related to **Back-End Development, .NET, APIs, and SQL**  
+- ⚡ Fun fact: **I play music 🎶, especially on the keyboard. It helps me debug! 😅**
+
+---
+
+## 📫 How to reach me
+
+- **Email:** [ahmedkhaliednoor@gmail.com](mailto:ahmedkhaliednoor@gmail.com)  
+- **LinkedIn:** [Ahmed Khaled Noor](https://linkedin.com/in/ahmed-khaled-noor)  
+- **Twitter:** [@callmephvntom](https://twitter.com/callmephvntom)  
+- **Facebook:** [Ahmed Noor](https://fb.com/ahmed.noor.568632)  
+- **Codeforces:** [tesla07](https://codeforces.com/profile/tesla07)  
+- **LeetCode:** [tesla07](https://leetcode.com/tesla07)
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <!-- Back-end -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+
+  <!-- Front-end -->
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
+
+  <!-- Dev Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+
+  <!-- Other Tools -->
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed101noor&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed101noor&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed101noor&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Dental Clinic System** | A full-featured dental management web app with dashboard, appointments, and patient records | ASP.NET Core, Angular, SQL Server |
+| **E-Commerce Task** | Dynamic e-commerce front-end with localStorage cart, filters, and product pages | HTML, CSS, JS |
+| **Exam Management System** | A database-first project to manage courses, exams, and instructors | SQL Server, EF6, .NET |
+| **Real-Time Chat App** | Real-time chat using WebSockets and SignalR | .NET Core, SignalR, JS |
+
+---
+
+## 📚 Currently Exploring
+
+- 🔐 **JWT Authentication** & security best practices in ASP.NET Core  
+- ☁️ **Deploying .NET + Angular apps on Azure**  
+- 🧠 Building **AI-based tools** with OpenAI & LangChain  
+- 🔄 Learning more about **Microservices Architecture**
+
+---
+
+## 🎵 Bonus: My Music Side
+
+> Music has been a passion for me since childhood. Whether I’m solving coding problems or brainstorming ideas, you’ll usually find me with my keyboard nearby. I believe music and logic blend beautifully — both are structured, expressive, and creative in nature.
+
+---
+
+## 📌 Fun Quotes
+
+> _“Programs must be written for people to read, and only incidentally for machines to execute.”_ – Harold Abelson  
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+
+---
+
+## 🙏 Thanks for Visiting!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" width="200" />
+</p>
+
+> If you liked this profile, give it a ⭐️  
+> Let’s connect and build something amazing together!
